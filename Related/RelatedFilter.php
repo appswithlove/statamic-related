@@ -28,7 +28,7 @@ class RelatedFilter extends Filter
         }
 
         return $this->collection->filter(function (Entry $entry) use ($taxonomy, $terms) {
-            return count(array_intersect($terms, $entry->get($taxonomy))) > 0;
+            return count(array_intersect($terms, $entry->get($taxonomy, []))) > 0;
         });
     }
 }

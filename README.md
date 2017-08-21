@@ -1,7 +1,11 @@
 # Simple related entries filter for Statamic ![Statamic 2.5](https://img.shields.io/badge/statamic-2.5-blue.svg?style=flat-square)
 
-Entries are filtered by overlapping/intersecting terms.
+[![StyleCI](https://styleci.io/repos/94096873/shield?branch=master)](https://styleci.io/repos/94096873)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/subpixel-ch/statamic-related/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/subpixel-ch/statamic-related/?branch=master)
+[![Build Status](https://scrutinizer-ci.com/g/subpixel-ch/statamic-related/badges/build.png?b=master)](https://scrutinizer-ci.com/g/subpixel-ch/statamic-related/build-status/master)
+[![SensioLabsInsight](https://insight.sensiolabs.com/projects/6c00fcd7-73c6-483d-88e4-e2379cb1c32c/mini.png)](https://insight.sensiolabs.com/projects/6c00fcd7-73c6-483d-88e4-e2379cb1c32c)
 
+Entries are filtered by overlapping/intersecting terms.
 
 
 ## Installation
